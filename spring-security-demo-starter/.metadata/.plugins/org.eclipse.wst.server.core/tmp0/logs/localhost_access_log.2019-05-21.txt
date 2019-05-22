@@ -1,0 +1,10 @@
+127.0.0.1 - - [21/May/2019:16:58:50 -0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [21/May/2019:16:58:50 -0700] "GET /spring-security-demo-09-jdbc-bcrypt/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/May/2019:16:58:51 -0700] "GET /spring-security-demo-09-jdbc-bcrypt/showMyLoginPage HTTP/1.1" 200 2326
+0:0:0:0:0:0:0:1 - - [21/May/2019:16:59:27 -0700] "POST /spring-security-demo-09-jdbc-bcrypt/authenticateTheUser HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/May/2019:16:59:27 -0700] "POST /spring-security-demo-09-jdbc-bcrypt/authenticateTheUser HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/May/2019:16:59:27 -0700] "GET /spring-security-demo-09-jdbc-bcrypt/showMyLoginPage?error HTTP/1.1" 200 2464
+0:0:0:0:0:0:0:1 - - [21/May/2019:17:02:12 -0700] "POST /spring-security-demo-09-jdbc-bcrypt/authenticateTheUser HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/May/2019:17:02:12 -0700] "GET /spring-security-demo-09-jdbc-bcrypt/showMyLoginPage?error HTTP/1.1" 200 2464
+0:0:0:0:0:0:0:1 - - [21/May/2019:17:06:28 -0700] "GET /spring-security-demo-09-jdbc-bcrypt/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/May/2019:17:06:28 -0700] "GET /spring-security-demo-09-jdbc-bcrypt/showMyLoginPage HTTP/1.1" 200 2326

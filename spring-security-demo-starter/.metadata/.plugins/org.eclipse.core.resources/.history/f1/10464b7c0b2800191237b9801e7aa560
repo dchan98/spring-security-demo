@@ -1,0 +1,9 @@
+package com.luv2code.springsecurity.demo.controller;
+
+
+@Controller
+public class DemoController {
+
+	@GetMapping("/")
+	
+}
